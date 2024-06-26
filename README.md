@@ -1,1 +1,1 @@
-# js_frist_project
+# 한국정보교육원 1차 프로젝트
